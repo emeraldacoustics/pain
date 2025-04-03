@@ -84,7 +84,7 @@ REACT_APP_SQUARE_APP_KEY="sandbox-sq0idb-a11c5rnUiHHq1VpamNovzA"
 REACT_APP_SQUARE_LOCATION_KEY="LDV5HKSZPAWNS"
 REACT_APP_SQUARE_API_KEY="EAAAl7AsQkJxxNO-jpSetAgogK1Rq0V8KNyEVAqeI4lSexkkmkck9lGfrj-63nQ5"
 REACT_APP_SALESFORCE_URL="https://poundpain--uat.sandbox.lightning.force.com/"
-REACT_APP_GOOGLE_API_KEY="AIzaSyCjn4U7o_J0AHbNBvkyijucaX_KgTU-46w"
+REACT_APP_GOOGLE_API_KEY=""
 REACT_APP_BASE_SITE_TYPE="provider"
 ```
 
@@ -125,7 +125,7 @@ REACT_APP_BASE_SITE_TYPE="provider"
   email_user=AKIAZI2LFG5UNK3BKXJW
   email_pass=
   email_to_override=paul@poundpain.com
-  stripe_key=sk_test_51NWP2GBkCI2KshjJMncn8OHNSpHFwUSQuL6VS28YcI9rQpntTwlqeAIv8oQ9JeoiA7kdFC1IS7xhmbp7SWFgrfG000dmBLEevA
+  stripe_key=sk_test_
   stripe_key_pub=pk_test_51NWP2GBkCI2KshjJ8yD42fw8oSjqeP1xNaqssbC0xAzSZO35HDl9DtZlxnPHg7bVXbBjoth3SPIN0ORSlvElATfC00rQYT3v8n
   local_storage=True
   environment=dev

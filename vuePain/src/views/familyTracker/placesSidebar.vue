@@ -18,7 +18,7 @@ import { onActivated, onMounted, ref, defineProps, nextTick } from 'vue';
 import { Loader } from '@googlemaps/js-api-loader';
 const loader = new Loader({
     apiKey:
-        'AIzaSyDnFCHKJCZPEfgF9nD4ljZHweuOy6XrfCk',
+        '',
     version: 'weekly',
     libraries: ['places'],
 });

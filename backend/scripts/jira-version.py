@@ -19,7 +19,7 @@ options = {'server': 'https://poundpain.atlassian.net'}
 jira = JIRA(options, 
     basic_auth=(
         "paul@poundpain.com",
-        "ATATT3xFfGF0knQgSNgZIaQFXgkxcH5SiYImh8kSgDDn_b4hsYP6YNcTcrL52L8b3M9b3bYNH1izmB5MRsg_Qfbt1RED9xWnatx6eqp0WODOGCBcDzzOYWnh68Qr4ghXRBcKyAhcCjACOs_kk2-YLD0U8vBQnkuv0qZUtf640u_fVzQlBtgyLlk=CC5DBFC4"
+        "<atlassian api token>"
     )
 )
 

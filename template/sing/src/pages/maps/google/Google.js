@@ -27,7 +27,7 @@ class Maps extends React.Component {
         </h1>
         <div className={s.MapContainer}>
           <BasicMap
-            googleMapURL="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places&key=AIzaSyB7OXmzfQYua_1LEhRdqsoYzyJOPh9hGLg"
+            googleMapURL="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places&key="
             loadingElement={<div style={{ height: 'inherit', width: 'inherit' }} />}
             containerElement={<div style={{ height: 'inherit' }} />}
             mapElement={<div style={{ height: 'inherit' }} />}
